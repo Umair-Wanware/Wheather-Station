@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/Users/umairwanware/Documents/PlatformIO/Projects/Wheather Station/lib/FreeRTOS-Kernel",
+    "C_Cpp.default.compilerPath": "/Users/umairwanware/.platformio/packages/toolchain-gccarmnoneeabi@1.70201.0/bin/arm-none-eabi-gcc"
+}
